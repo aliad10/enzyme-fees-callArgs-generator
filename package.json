@@ -1,0 +1,17 @@
+{
+  "name": "enzyme-fees-callargs-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "big.js": "^7.0.1",
+    "ethers": "^6.15.0",
+    "mathjs": "^14.6.0"
+  }
+}

@@ -1,4 +1,3 @@
----
 
 # 🧮 Enzyme Vault Fee Encoder
 

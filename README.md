@@ -75,6 +75,3 @@ All Enzyme fee contracts used are deployed on Arbitrum. You can modify them in `
 
 MIT
 
----
-
-Let me know if you want a CLI version, tests, or vault creation integration added.
